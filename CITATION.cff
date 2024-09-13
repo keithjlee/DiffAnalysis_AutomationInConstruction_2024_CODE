@@ -1,0 +1,23 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: DiffAnalysis_AIC2024
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Keith J.
+    family-names: Lee
+    email: keithjl@mit.edu
+    affiliation: Massachusetts Institute of Technology
+    orcid: 'https://orcid.org/0000-0001-7522-8497'
+repository-code: >-
+  https://github.com/keithjlee/DiffAnalysis_AutomationInConstruction_2024_CODE
+keywords:
+  - Structural Analysis
+  - Structural Optimization
+  - Computational Design
+  - Automatic Differentiation
+license: MIT
